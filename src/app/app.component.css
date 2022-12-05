@@ -1,0 +1,14 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+}
+.app-container{
+  width: 100%;
+  display: flex;
+}
+
+.right-side{
+  width: 100%;
+  margin: 0px 40px;
+  /* background-color: black; */
+}
